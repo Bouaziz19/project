@@ -7,7 +7,10 @@ from django.http import JsonResponse
 from datetime import datetime
 from django.views.decorators.csrf import csrf_exempt
 
+from django.http import HttpResponse
 
+def index(request):
+    return HttpResponse("Hello, world!ssssssssssssssssss")
 # Create your views here.
 # res = data.objects.all()
 # res = data.objects.filter(name='valeur')
