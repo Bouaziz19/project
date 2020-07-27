@@ -1,0 +1,15 @@
+django.wsgi
+*.egg-info
+*.EGG-INFO
+*.log
+*.pot
+*.pyc
+*.pyo
+*.css
+*.svg
+*.js
+*.map
+*.eot
+*.ttf
+*.woff
+*.woff2
