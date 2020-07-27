@@ -1,5 +1,4 @@
-Django==2.0.9
-numpy==1.18.1
-gunicorn==20.0.4
+Django
+gunicorn
 Pillow
 django-heroku
